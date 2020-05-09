@@ -80,7 +80,7 @@ Data Storage is the recording of information in a storage medim.  Recording is a
 
 > Video Card
 
-![](video card.jpg)
+![](videocard.jpg)
 
 Video cards are an expansion card which gnerates a feed of output images to a display, i.e. computer monitor.  
 
@@ -90,7 +90,7 @@ Video cards are an expansion card which gnerates a feed of output images to a di
 
 > Sound Card
 
-![](sound card.jpg)
+![](soundcard.jpg)
 
 A sound card is an internal expansion card that provides input and output of audio signals to and from a computer under control of computer programs.
 
