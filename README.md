@@ -98,5 +98,29 @@ A sound card is an internal expansion card that provides input and output of aud
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
+> Network Interface Controller (NIC)
+
+![](nic.jpg)
+
+The network interface controller is a computer hardware component that connects a computer to a computer network.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+> Cooling
+
+![](cooling.jpg)
+
+Computer cooling is required to remove the wast heat produced by computer components, to keep components within permissible operating temperature limits.  Computer componenets are susceptible to malfucntion if overheating occurs.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+> Case
+
+![](case.jpg)
+
+The computer case is the tower or cabinet that encompass all the components of the computer to keep it safe for optimal performance.
+
+[What Computer Case Should You Buy?](https://youtube.com/watch?v=aEHDTJMqmpc&feature=youtu.be)
+
 
 
